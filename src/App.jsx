@@ -63,21 +63,21 @@ const App = () => {
               transition={{
                 duration: 1.4
               }}
-              src="public/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-40 rounded-md' alt="" />
+              src="./assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-40 rounded-md' alt="" />
             <motion.img
               initial={{ opacity: 0, y: 200 }}
               animate={{ opacity: 2, y: 0 }}
               transition={{
                 duration: 1
               }}
-              src="public/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-20 rounded-md' alt="" />
+              src="./assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-20 rounded-md' alt="" />
             <motion.img
               initial={{ opacity: 0, y: 200 }}
               animate={{ opacity: 2, y: 0 }}
               transition={{
                 duration: 2
               }}
-              src="public/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-40 rounded-md' alt="" />
+              src="./assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-40 rounded-md' alt="" />
           </div>
         </div>
         <hr className='border border-gray-400 w-[1440] mt-72' />
@@ -114,10 +114,10 @@ const App = () => {
         <p className='text-center pt-6 text-gray-400 text-2xl dark:text-gray-700'>Get a unique background to make your profile look legendary</p>
         <div className="flex gap-6 justify-center mt-16">
           <img src="./assets/b1.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
-          <img src="public/assets/b2.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
-          <img src="public/assets/b3.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
-          <img src="public/assets/b4.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
-          <img src="public/assets/b5.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
+          <img src="./assets/b2.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
+          <img src="./assets/b3.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
+          <img src="./assets/b4.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
+          <img src="./assets/b5.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
         </div>
         <button className='text-white bg-indigo-700 rounded-lg px-6 py-4 ml-[850px] mt-12 text-xl font-semibold hover:scale-110 duration-200 active:scale-95'>GO TO MARKETPLACE</button>
       </div>

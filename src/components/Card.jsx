@@ -11,10 +11,10 @@ const Card = () => {
         </div>
       </div>
       <div className='icons flex gap-12 pt-16 pl-20'>
-        <img src="public/assets/King_of_the_Sea_profileicon.webp" className='w-[130px] rounded-3xl h-[130px] mt-20' alt="" />
-        <img src="public/assets/King_of_the_Sea_profileicon.webp" className='w-[130px] rounded-3xl h-[130px]' alt="" />
-        <img src="public/assets/King_of_the_Sea_profileicon.webp" className='w-[130px] rounded-3xl h-[130px] mt-20' alt="" />
-        <img src="public/assets/King_of_the_Sea_profileicon.webp" className='w-[130px] rounded-3xl h-[130px]' alt="" />
+        <img src="./assets/King_of_the_Sea_profileicon.webp" className='w-[130px] rounded-3xl h-[130px] mt-20' alt="" />
+        <img src="./assets/King_of_the_Sea_profileicon.webp" className='w-[130px] rounded-3xl h-[130px]' alt="" />
+        <img src="./assets/King_of_the_Sea_profileicon.webp" className='w-[130px] rounded-3xl h-[130px] mt-20' alt="" />
+        <img src="./assets/King_of_the_Sea_profileicon.webp" className='w-[130px] rounded-3xl h-[130px]' alt="" />
       </div>
     </div>
   )
