@@ -2,7 +2,7 @@ import React from 'react'
 
 const Card = () => {
   return (
-    <div className='rounded-3xl bg-gradient-to-r from-slate-900 via-purple-900 to-slate-900 w-[1300px] h-[400px] mx-auto flex mt-36'>
+    <div className='rounded-3xl gradient w-[1300px] h-[400px] mx-auto flex mt-36'>
       <div>
         <h2 className='text-4xl pt-28 pl-12 pb-6 text-white font-bold'>Synergy of the Light <br /> update is now live</h2>
         <div className="flex pl-12 gap-4">
