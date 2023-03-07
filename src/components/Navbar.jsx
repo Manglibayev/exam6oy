@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link, Route, Routes } from 'react-router-dom'
-import FAQ from '../pages/FAQ'
+// import FAQ from '../pages/FAQ'
 import Features from '../pages/Features'
 import Media from '../pages/Media'
 import Overview from '../pages/Overview'
@@ -39,7 +39,7 @@ const Navbar = () => {
                 <Route path='/features' element={<Features/>}/>
                 <Route path='/start' element={<Start/>}/>
                 <Route path='/media' element={<Media/>}/>
-                <Route path='/faq' element={<FAQ/>}/>
+                {/* <Route path='/faq' element={<FAQ/>}/> */}
             </Routes>
         </div>
     )
