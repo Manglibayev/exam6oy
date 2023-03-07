@@ -3,7 +3,7 @@ import React from 'react'
 const Content2 = () => {
     return (
         <div className='flex justify-center'>
-            <div className='bg-[url(src/assets/backforcard.jpg)] rounded-2xl bg-no-repeat drop-shadow-lg flex gap-24'>
+            <div className='bg-[url(./assets/backforcard.jpg)] rounded-2xl bg-no-repeat drop-shadow-lg flex gap-24'>
                 <div className="text">
                     <h2 className='text-4xl text-white font-semibold mt-24 pl-8'>Explore New Worlds <br />With Your Custom Deck</h2>
                     <div className="btns pt-12">
