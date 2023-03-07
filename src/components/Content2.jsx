@@ -12,7 +12,7 @@ const Content2 = () => {
                     </div>
                 </div>
                 <div className="images">
-                    <img src="src/assets/character.png" alt="" className='w-[640px] h-[400px] object-cover' />
+                    <img src="public/character.png" alt="" className='w-[640px] h-[400px] object-cover' />
                 </div>
             </div>
         </div>

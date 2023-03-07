@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react'
 import { Link, Route, Routes } from 'react-router-dom'
-// import FAQ from '../pages/FAQ'
+// import FAQ from '../pages/Faq'
 import Features from '../pages/Features'
 import Media from '../pages/Media'
 import Overview from '../pages/Overview'
