@@ -63,21 +63,21 @@ const App = () => {
               transition={{
                 duration: 1.4
               }}
-              src="src/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='w-[300px] h-[400px] mt-40 rounded-md' alt="" />
+              src="src/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-40 rounded-md' alt="" />
             <motion.img
               initial={{ opacity: 0, y: 200 }}
               animate={{ opacity: 2, y: 0 }}
               transition={{
                 duration: 1
               }}
-              src="src/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='w-[300px] h-[400px] mt-20 rounded-md' alt="" />
+              src="src/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-20 rounded-md' alt="" />
             <motion.img
               initial={{ opacity: 0, y: 200 }}
               animate={{ opacity: 2, y: 0 }}
               transition={{
                 duration: 2
               }}
-              src="src/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='w-[300px] h-[400px] mt-40 rounded-md' alt="" />
+              src="src/assets/xayah_4k_hd_league_of_legends-3840x2160.jpg" className='md:w-[150px] md:h-[200px] xl:w-[300px] xl:h-[400px] mt-40 rounded-md' alt="" />
           </div>
         </div>
         <hr className='border border-gray-400 w-[1440] mt-72' />
