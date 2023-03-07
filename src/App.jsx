@@ -113,7 +113,7 @@ const App = () => {
         <h2 className='text-7xl font-semibold text-white text-center pt-24 dark:text-black'>New epic backgrounds</h2>
         <p className='text-center pt-6 text-gray-400 text-2xl dark:text-gray-700'>Get a unique background to make your profile look legendary</p>
         <div className="flex gap-6 justify-center mt-16">
-          <img src="public/assets/b1.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
+          <img src="./assets/b1.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
           <img src="public/assets/b2.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
           <img src="public/assets/b3.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
           <img src="public/assets/b4.jpeg" className='rounded-xl hover:scale-110 duration-200' alt="" />
